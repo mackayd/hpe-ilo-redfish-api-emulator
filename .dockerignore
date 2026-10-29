@@ -1,0 +1,16 @@
+*
+!src/
+!src/**
+!mockups/
+!mockups/**
+!LICENSE
+!licenses/
+!licenses/**
+!UPSTREAM.md
+**/__pycache__/
+**/*.pyc
+**/server.crt
+**/server.key
+**/*.pem
+**/*.pfx
+**/*.p12
